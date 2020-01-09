@@ -59,7 +59,9 @@ Por lo que la omisión de este comando influenciaría las noticias negativas sobre
 positivas sobrepasaría el numero en 6 noticias.
 
 
-4.- "Construya un script capaz de calcular la probabilidad del conjunto de cartas que está por salir,
+**EJERCICIO 4.** 
+
+"Construya un script capaz de calcular la probabilidad del conjunto de cartas que está por salir,
 para crear datos de prueba utilizando la función sample considerando que han salido 31
 cartas"
 
@@ -70,7 +72,9 @@ agrupando las cartas en altas, bajas y medianas. Con las siguientes probabilidad
 Obteniendo un total de: -3 puntos finales.
 
 
-5.- "Si en el ejercicio anterior utilizamos la función set.seed. ¿Qué grupo de cartas tiene más
+**EJERCICIO 5.**
+
+"Si en el ejercicio anterior utilizamos la función set.seed. ¿Qué grupo de cartas tiene más
 probabilidades de salir?"
 
 Las probabilidades de salir cada grupo de cartas al aplicar el comando set.seed(21) son:
